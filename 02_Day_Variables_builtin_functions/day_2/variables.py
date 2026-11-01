@@ -1,2 +1,3 @@
 # Day 2: 30 Days of python programming
-name = farhaan
+first_name = farhaan
+last_name = syed
